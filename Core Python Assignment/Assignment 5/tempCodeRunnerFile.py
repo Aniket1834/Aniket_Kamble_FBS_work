@@ -1,0 +1,1 @@
+"Sum of power of series 1 to",n,"is : ",sum
