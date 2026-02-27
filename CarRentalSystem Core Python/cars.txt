@@ -1,8 +1,0 @@
-1,Honda City,Available,1500
-2,Toyota Innova,Available,2000
-3,Hyundai i20,Available,1200
-4,Tata Nexon,Available,1800
-5,Mahindra Thar,Available,2200
-6,Suzuki Swift,Available,1500
-7,Hyundai Aura,Available,1700
-8,Hyundai Creata,Available,2500
